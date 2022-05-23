@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98a40205.css",
+    "main.js": "/static/js/main.bb3a4e37.js",
+    "static/js/787.ebd7646a.chunk.js": "/static/js/787.ebd7646a.chunk.js",
+    "static/media/comics.png": "/static/media/comics.2aa6aafe5a5192492523.png",
+    "static/media/oxford.png": "/static/media/oxford.265b844b5b7ed5e819e2.png",
+    "static/media/carousel3.png": "/static/media/carousel3.ab0675f177646ca68738.png",
+    "static/media/spiderman4.png": "/static/media/spiderman4.2e942bc53daa64ea1ee8.png",
+    "static/media/spiderman2.png": "/static/media/spiderman2.87508e717766eeb87028.png",
+    "static/media/spiderman1.png": "/static/media/spiderman1.12104ee3c72106c58865.png",
+    "static/media/spiderman3.png": "/static/media/spiderman3.9cb24ef79152b0c98597.png",
+    "static/media/MobyDick.png": "/static/media/MobyDick.36b646b87991abf275c3.png",
+    "static/media/ArtemisFowl.png": "/static/media/ArtemisFowl.bdc51b8296772abbd511.png",
+    "static/media/fantasy.png": "/static/media/fantasy.13bc7500cf961a398580.png",
+    "static/media/dictionaries.png": "/static/media/dictionaries.9ac7fa10aa604b096784.png",
+    "static/media/horror.png": "/static/media/horror.3ce00dd69115f7c39acf.png",
+    "static/media/adventure.png": "/static/media/adventure.5045a458a9f574b96c1d.png",
+    "static/media/carousel1.png": "/static/media/carousel1.ad9585fcf0a142380736.png",
+    "static/media/bookstore.png": "/static/media/bookstore.59137de2c578b89877ec.png",
+    "static/media/carousel2.png": "/static/media/carousel2.d2a71dd9f071c2656163.png",
+    "static/media/logo.png": "/static/media/logo.782453007ca8840958a5.png",
+    "index.html": "/index.html",
+    "main.98a40205.css.map": "/static/css/main.98a40205.css.map",
+    "main.bb3a4e37.js.map": "/static/js/main.bb3a4e37.js.map",
+    "787.ebd7646a.chunk.js.map": "/static/js/787.ebd7646a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a40205.css",
+    "static/js/main.bb3a4e37.js"
+  ]
+}
